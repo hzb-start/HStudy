@@ -4,9 +4,7 @@
 
 Maven学习笔记目录
 
-![](MavenStudy\images\Maven目录.png)
-
-
+<img src="https://gitee.com/hzb-start/HStudy/raw/main/MavenStudy/images/Maven目录.png"/>
 
 ----
 
@@ -14,10 +12,13 @@ Maven学习笔记目录
 
 ----
 
-
-
 > SVN
 
 SVN学习笔记目录
 
-![](SVNStudy\images\SVN目录.png)
+<img src="https://gitee.com/hzb-start/HStudy/raw/main/SVNStudy/images/SVN目录.png"/>
+
+
+
+
+
